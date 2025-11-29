@@ -18,6 +18,7 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan db:seed
+```
 
 使用技術（実行環境）
 	•	PHP 8.x
@@ -36,7 +37,7 @@ URL（開発環境）
 ER図
 
 作成した ER 図を以下に貼っています。
-  ![ER図](./er.png)
+  ![ER図](er.png)
 
 機能一覧
 

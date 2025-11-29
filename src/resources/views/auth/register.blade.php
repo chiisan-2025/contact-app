@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>ユーザー登録</title>
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
     <h1>ユーザー登録</h1>

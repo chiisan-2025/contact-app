@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>お問い合わせ管理システム</title>
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+
 </head>
 <body>
 
