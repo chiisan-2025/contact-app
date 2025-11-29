@@ -36,9 +36,7 @@ URL（開発環境）
 ER図
 
 作成した ER 図を以下に貼っています。
-<p align="center">
-  <img src="./er.png" alt="ER図" width="600">
-</p>
+  ![ER図](./er.png)
 
 機能一覧
 
