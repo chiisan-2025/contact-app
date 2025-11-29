@@ -17,3 +17,8 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+docker/mysql/data/
+docker/mysql/logs/
+docker/mysql/*.cnf
+/storage/logs/
+/storage/framework/cache/
