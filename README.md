@@ -9,8 +9,8 @@ Docker 環境上で Laravel を動作させ、入力 → 確認 → 完了 → �
 
 ### ▼ Docker ビルド手順
 ```bash
-git clone <あなたのリポジトリURL>
-cd <プロジェクト名>
+ <あなたのリポジトリURL>https://github.com/chiisan-2025/contact-app
+<プロジェクト名>contact-app
 docker-compose up -d --build
 docker-compose exec php bash
 composer install
